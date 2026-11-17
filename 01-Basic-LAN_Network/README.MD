@@ -27,9 +27,13 @@ Network Topology
 IP Addressing Table
 
 Device| IP Address| Subnet Mask
+
 PC0| 172.16.0.2| 255.255.255.0
+
 PC1| 172.16.0.3| 255.255.255.0
+
 PC2| 172.16.0.4| 255.255.255.0
+
 PC3| 172.16.0.5| 255.255.255.0
 
 Implementation Steps
@@ -43,7 +47,9 @@ Implementation Steps
 Verification Commands
 
 ping 172.16.0.3
+
 ping 172.16.0.4
+
 ping 172.16.0.5
 
 Expected Result
